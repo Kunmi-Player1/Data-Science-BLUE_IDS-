@@ -1,4 +1,11 @@
-data/
+# env & caches
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+
+# ignore all datasets/artifacts
+/data/**
+*.csv
+
+# keep placeholders if you want the folders in Git
+!/data/.gitkeep
