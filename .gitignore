@@ -9,3 +9,4 @@ __pycache__/
 
 # keep placeholders if you want the folders in Git
 !/data/.gitkeep
+artifacts/
